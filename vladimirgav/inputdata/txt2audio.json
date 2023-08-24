@@ -1,0 +1,8 @@
+{
+    "audio_id": 1,
+    "files_count": 1,
+    "model_id": "suno/bark-small",
+    "voice_preset": "v2/en_speaker_0",
+    "prompt": "Hello, my name is Vladimir Gav",
+    "files_dir": "sdroot\/vladimirgav\/audio"
+}
